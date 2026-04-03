@@ -1,0 +1,4 @@
+requests
+sgp4
+astropy
+pyindi-client
